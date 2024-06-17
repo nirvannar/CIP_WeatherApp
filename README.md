@@ -25,12 +25,13 @@ For this final Stanford Code In Place project, I built a Weather App that displa
  ## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
 
 
-[GeeksforGeeks.com](https://www.geeksforgeeks.org/building-a-weather-cli-using-python/)
-[Real Python.com](https://realpython.com/build-a-python-weather-app-cli/)
-[Openweathermap.org](https://home.openweathermap.org/)
-[Youtube](https://www.youtube.com/watch?v=Y84MGU_ZL18)
-[CodeInPlace](https://codeinplace.stanford.edu/cip4/studenthome)
-[chatgpt](https://chatgpt.com/c/ea4202f0-4591-4225-bd26-2decc41c70c9)
-[Github](https://github.com/)
+[GeeksforGeeks.com](https://www.geeksforgeeks.org/building-a-weather-cli-using-python/), 
+[Real Python.com](https://realpython.com/build-a-python-weather-app-cli/), 
+[Openweathermap.org](https://home.openweathermap.org/), 
+[Youtube](https://www.youtube.com/watch?v=Y84MGU_ZL18), 
+[CodeInPlace](https://codeinplace.stanford.edu/cip4/studenthome), 
+[chatgpt](https://chatgpt.com/c/ea4202f0-4591-4225-bd26-2decc41c70c9), 
+[Github](https://github.com/), and  
+[Dataquest.io](https://www.dataquest.io/blog/python-projects-for-beginners/)
 
 
