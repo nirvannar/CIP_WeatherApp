@@ -5,6 +5,7 @@ Final CIP project
 
 * [Installation](#Installation)
 * [Project Motivation](#Project-Motivation)
+* [File Descriptions and Analyses](#File-Descriptions-and-Analyses)
 * [Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)
 
 
@@ -22,7 +23,12 @@ pip install json
 ## Project Motivation <a name="Project-Motivation"></a>
 For this final Stanford Code In Place project, I built a Weather App that displayed in degrees Celcius (metric).  I was interestested in using the Internet, Libraries and data structures.  I explored VS Code and GitHub.  I incorporated learnings from the various lessons in the modules.  I wanted to make a useful project that addresses a daily information need for almost everyone. I used emojis and f-string, 
 
- ## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
+## File Descriptions and Analyses <a name="File-Descriptions-and-Analyses"></a>
+gitignore stores the secret files list
+secret.ini stores the config files and the API key
+weather_app.py stores the Python code 
+
+## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
 
 
 [GeeksforGeeks.com](https://www.geeksforgeeks.org/building-a-weather-cli-using-python/), 
