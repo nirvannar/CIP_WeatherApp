@@ -7,13 +7,16 @@ This project uses the
 
 and the configparser libraries
 
-#Acknowledgements
-https://www.geeksforgeeks.org/building-a-weather-cli-using-python/
-https://realpython.com/build-a-python-weather-app-cli/
-https://home.openweathermap.org/
-https://www.youtube.com/watch?v=Y84MGU_ZL18
-https://codeinplace.stanford.edu/cip4/studenthome
-https://chatgpt.com/c/ea4202f0-4591-4225-bd26-2decc41c70c9
+## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
+The following resources were referenced in this project: [Udacity](https://learn.udacity.com/nanodegrees/nd025), [Github](https://github.com/), [Towards data science](https://towardsdatascience.com/5-pandas-group-by-tricks-you-should-know-in-python-f53246c92c94),
+
+[GeeksforGeeks.com](https://www.geeksforgeeks.org/building-a-weather-cli-using-python/)
+[Real Python.com](https://realpython.com/build-a-python-weather-app-cli/)
+[Openweathermap.org](https://home.openweathermap.org/)
+[Youtube](https://www.youtube.com/watch?v=Y84MGU_ZL18)
+[CodeInPlace](https://codeinplace.stanford.edu/cip4/studenthome)
+[chatgpt]{https://chatgpt.com/c/ea4202f0-4591-4225-bd26-2decc41c70c9)
+[Github](https://github.com/)
 
 # Intrepid Explosive Voyages
 My first Udacity Project based on CRISP-DM to assist volcano tourists to plan their travels.
