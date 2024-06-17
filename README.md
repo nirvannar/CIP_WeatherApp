@@ -34,5 +34,3 @@ For this final Stanford Code In Place project, I built a Weather App that displa
 [Github](https://github.com/)
 
 
-
-``` 
