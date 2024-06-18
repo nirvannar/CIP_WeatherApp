@@ -21,11 +21,14 @@ pip install json
 ```
 
 ## Project Motivation <a name="Project-Motivation"></a>
-For this final Stanford Code In Place project, I built a Weather App that displayed in degrees Celcius (metric).  I was interestested in using the Internet, Libraries and data structures.  I explored VS Code and GitHub.  I incorporated learnings from the various lessons in the modules.  I wanted to make a useful project that addresses a daily information need for almost everyone. I used emojis and f-string, 
+For this final Stanford Code In Place project, I wanted to make a useful project that addresses a daily information need applicable to almost everyone, so I built a Weather App that displayed the temperature in degrees Celcius (metric).  I was interestested in using the Internet (via APIs from openweathermap.org), Libraries and data structures.  I explored VS Code and GitHub.  I incorporated learnings from the various lessons in the codes.   I used json; and print, round, lower and captialise functions; emojis and f-strings.  I used while loops, and try and except blocks for city name validation.   The App asks for a city and gives the weather details until "exit" is typed to exit the App.  It has the functionality to process duplicate city names in different countries such as London, US and London, GB.
+
 
 ## File Descriptions and Analyses <a name="File-Descriptions-and-Analyses"></a>
 gitignore stores the secret files list
+
 secret.ini stores the config files and the API key
+
 weather_app.py stores the Python code 
 
 ## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
